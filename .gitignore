@@ -1,0 +1,9 @@
+*.class
+
+*.log
+
+.vscode/
+.idea/
+
+/target/
+/build/
