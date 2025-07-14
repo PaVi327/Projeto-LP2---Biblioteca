@@ -1,6 +1,6 @@
 public class Editora {
-    private int id;
-    private String nome;
+    private final int id;
+    private final String nome;
 
     public Editora(int id, String nome) {
         this.id = id;

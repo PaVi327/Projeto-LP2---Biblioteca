@@ -1,10 +1,10 @@
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Biblioteca {
-    private String nome;
-    private List<Livro> acervo;
-    private List<Usuario> membros;
+    private final String nome;
+    private final List<Livro> acervo;
+    private final List<Usuario> membros;
 
     public Biblioteca(String nome) {
         this.nome = nome;

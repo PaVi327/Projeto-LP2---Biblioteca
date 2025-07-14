@@ -1,8 +1,8 @@
 public class Livro {
-    private int id;
-    private String titulo;
-    private int idAutor;
-    private int idEditora;
+    private final int id;
+    private final String titulo;
+    private final int idAutor;
+    private final int idEditora;
     private boolean disponivel;
 
     public Livro(int id, String titulo, int idAutor, int idEditora) {

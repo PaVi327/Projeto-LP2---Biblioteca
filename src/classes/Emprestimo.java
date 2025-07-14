@@ -1,10 +1,10 @@
 import java.time.LocalDate;
 
 public class Emprestimo {
-    private int id;
-    private int idLivro;
-    private int idUsuario;
-    private LocalDate dataEmprestimo;
+    private final int id;
+    private final int idLivro;
+    private final int idUsuario;
+    private final LocalDate dataEmprestimo;
     private boolean ativo;
 
     public Emprestimo(int id, int idLivro, int idUsuario) {

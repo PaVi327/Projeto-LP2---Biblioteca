@@ -1,7 +1,7 @@
 public abstract class Pessoa {
-    private int id;
-    private String nome;
-    private String cpf;
+    private final int id;
+    private final String nome;
+    private final String cpf;
 
     public Pessoa(int id, String nome, String cpf) {
         this.id = id;

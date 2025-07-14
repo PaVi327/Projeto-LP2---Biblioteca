@@ -1,5 +1,5 @@
 public class Usuario extends Pessoa {
-    private String codigoMembro;
+    private final String codigoMembro;
 
     public Usuario(int id, String nome, String cpf, String codigoMembro) {
         super(id, nome, cpf);

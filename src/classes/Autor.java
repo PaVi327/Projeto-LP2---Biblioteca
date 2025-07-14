@@ -1,6 +1,6 @@
 public class Autor {
-    private int id;
-    private String nome;
+    private final int id;
+    private final String nome;
 
     public Autor(int id, String nome) {
         this.id = id;
