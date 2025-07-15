@@ -13,7 +13,7 @@ O projeto consiste em um gerenciador de atividades de uma biblioteca, que permit
 
 
 ### 1. Mínimo 8 Classes
-O projeto foi estruturado com diversas classes para garantir a separação de responsabilidades e a correta aplicação dos conceitos de POO. As principais são:
+O projeto foi estruturado com diversas classes para garantir a separação de responsabilidades e a aplicação dos conceitos de POO. As principais são:
 * **Modelos:** 
     - `Pessoa.java` (abstrata)
     - `Usuario.java`
