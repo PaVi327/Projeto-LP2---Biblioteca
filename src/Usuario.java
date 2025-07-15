@@ -9,13 +9,13 @@ public class Usuario extends Pessoa {
     public String getCodigoMembro() {
         return codigoMembro;
     }
-    
+
     @Override
     public void exibirDetalhes() {
-        System.out.println("--- Detalhes do Usuário ---");
-        System.out.println("ID: " + getId());
-        System.out.println("Nome: " + getNome());
-        System.out.println("Código de Membro: " + this.codigoMembro);
-        System.out.println("---------------------------");
+        System.out.println("Usuário: " + getNome() + " (ID: " + getId() + ", Código: " + this.codigoMembro + ")");
+    }
+
+    public String toCsvString() {
+        return getId() + "," + getNome() + "," + getCpf() + "," + this.codigoMembro;
     }
 }

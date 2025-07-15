@@ -1,1 +1,21 @@
 id,titulo,id_autor,id_editora,disponivel
+1001,O Senhor dos Anéis,101,201,true
+1002,1984,102,202,false
+1003,Dom Casmurro,103,209,true
+1004,A Hora da Estrela,104,203,true
+1005,Harry Potter e a Pedra Filosofal,105,203,false
+1006,Eu Robô,106,204,true
+1007,O Assassinato no Expresso do Oriente,107,201,true
+1008,O Iluminado,108,205,false
+1009,Duna,109,204,true
+1010,O Guia do Mochileiro das Galáxias,110,205,true
+1011,Orgulho e Preconceito,111,209,false
+1012,Sapiens: Uma Breve História da Humanidade,112,202,true
+1013,A Arte da Guerra,113,209,true
+1014,O Príncipe,114,209,true
+1015,Vidas Secas,118,207,false
+1016,Capitães da Areia,119,202,true
+1017,Auto da Compadecida,120,210,true
+1018,It: A Coisa,108,205,true
+1019,Fundação,106,204,false
+1020,A Revolução dos Bichos,102,202,true

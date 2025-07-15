@@ -1,1 +1,21 @@
 id,nome,cpf,codigo_membro
+1,Ana Carolina de Souza,111.222.333-44,MEM001
+2,Bruno Mendes da Silva,222.333.444-55,MEM002
+3,Carla Vieira Gusmão,333.444.555-66,MEM003
+4,Daniel Farias Lima,444.555.666-77,MEM004
+5,Eduarda Ribeiro Pires,555.666.777-88,MEM005
+6,Felipe Nogueira Bastos,666.777.888-99,MEM006
+7,Gabriela Azevedo,777.888.999-00,MEM007
+8,Heitor Vasconcelos,888.999.000-11,MEM008
+9,Isabela Teixeira,999.000.111-22,MEM009
+10,João Pedro Martins,000.111.222-33,MEM010
+11,Laura Gomes,123.456.789-00,MEM011
+12,Miguel Alves,234.567.890-11,MEM012
+13,Natália Correia,345.678.901-22,MEM013
+14,Otávio Ferreira,456.789.012-33,MEM014
+15,Patrícia Barros,567.890.123-44,MEM015
+16,Rafael Dias,678.901.234-55,MEM016
+17,Sofia Castro,789.012.345-66,MEM017
+18,Thiago Rocha,890.123.456-77,MEM018
+19,Valentina Moreira,901.234.567-88,MEM019
+20,William Santos,012.345.678-99,MEM020

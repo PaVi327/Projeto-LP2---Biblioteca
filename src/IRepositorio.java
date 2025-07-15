@@ -5,4 +5,5 @@ public interface IRepositorio<T> {
     void removerPorId(int id);
     T buscarPorId(int id);
     List<T> listarTodos();
+    void atualizar(T item);
 }
